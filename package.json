@@ -1,0 +1,15 @@
+{
+  "name": "wortex-autonomous-api",
+  "version": "1.0.0",
+  "description": "WORTEX Global Compute & Optimization Engine",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
